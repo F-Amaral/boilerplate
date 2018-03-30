@@ -27,7 +27,7 @@ double divide(int a, int b){
   // Retorna a divisão
   //return a / b;
   // Quebrando a função
-  return a * b;
+  return a + b;
 }
 
 
